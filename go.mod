@@ -1,1 +1,1 @@
-module github.com/robteix/testmod/v2
+module github.com/mrpity/testmod/v2
